@@ -1,12 +1,12 @@
 # Mirai Bot Unofficial🤖<sub><sub>v3.0.0🚀</sub></sub>
 <p align="center">
     <a href="https://nodejs.org/dist/v20.17.0"><img src="https://img.shields.io/badge/Nodejs%20Support-20.x-brightgreen.svg?style=flat-square" alt="Nodejs Support v20.x"></a>
-    <img alt="size" src="https://img.shields.io/github/repo-size/DongDev-VN/Mirai-Bot-V3.svg?style=flat-square&label=size">
-    <img alt="code-version" src="https://img.shields.io/badge/dynamic/json?color=red&label=code%20version&prefix=v&query=%24.version&url=https://raw.githubusercontent.com/DongDev-VN/Mirai-Bot-V3/refs/heads/main/package.json&style=flat-square">
-    <a href="https://github.com/DongDev-VN/Mirai-Bot-V3/commits"><img alt="Commits" src="https://img.shields.io/github/commit-activity/m/DongDev-VN/Mirai-Bot-V3.svg?label=commit&style=flat-square"></a>
-<img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=DongDev-VN.Mirai-Bot-V3">
+    <img alt="size" src="https://img.shields.io/github/repo-size/LunarKrystal/Mirai.svg?style=flat-square&label=size">
+    <img alt="code-version" src="https://img.shields.io/badge/dynamic/json?color=red&label=code%20version&prefix=v&query=%24.version&url=https://raw.githubusercontent.com/LunarKrystal/Mirai/refs/heads/main/package.json&style=flat-square">
+    <a href="https://github.com/LunarKrystal/Mirai/commits"><img alt="Commits" src="https://img.shields.io/github/commit-activity/m/LunarKrystal/Mirai.svg?label=commit&style=flat-square"></a>
+<img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=LunarKrystal.Mirai">
 <img alt="size" src="https://img.shields.io/badge/license-GPL--3.0-green?style=flat-square&color=brightgreen">
-<a href="https://github.com/DongDev-VN/Mirai-Bot-V3"><img src="https://i.imgur.com/sxW5AWa.png" alt="Logo"></a>
+<a href="https://github.com/LunarKrystal/Mirai"><img src="https://i.imgur.com/sxW5AWa.png" alt="Logo"></a>
 <p align="center">
     A Simple MiraiBot for starting a Messenger Chatbot.
     <br />
@@ -39,7 +39,7 @@ Sau đây là các bước cơ bản để có thể cài đặt và vận hành
     1. chuột phải ở folder cần cài đặt source code nhấn vào git bash
     2. nhập
     ```sh
-    git clone https://github.com/DongDev-VN/Mirai-Bot-V3 Mirai-Bot-V3
+    git clone https://github.com/LunarKrystal/Mirai
     ```
     
 3. Cài đặt các package cần thiết
@@ -78,4 +78,4 @@ Sự đóng góp của bạn sẽ khiến cho project ngày càng tốt hơn, c�
 <!-- CONTACT -->
 ## ☎️ **Contact**
 
-- DongDev - [Facebook](https://facebook.com/minhdong.dev) - [GitHub](https://github.com/DongDev-VN) - dongdz.user@gmail.com
+- LunarKrystal - [Facebook](https://facebook.com/LunarKrystal.Dev) - [GitHub](https://github.com/LunarKrystal) - lunarkrystal.team@gmail.com
