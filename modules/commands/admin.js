@@ -21,7 +21,7 @@ module.exports.run = async function({ api, event, args }) {
   const config = JSON.parse(fs.readFileSync(configPath, 'utf8'));
 
   // Get the list of admins
-  const admins = config.NDH || [];
+  const admins = config.ADMINBOT || [];
 
   // Handle different subcommands
   switch (args[0]) {
