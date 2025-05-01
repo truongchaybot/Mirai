@@ -19,9 +19,9 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "FACEBOOK_ADMIN": "",
+    "FACEBOOK_ADMIN": "Minh Truong",
     "BOTNAME": "Vân Anh",
-    "PREFIX": "!",
+    "PREFIX": ">",
     "BOXADMIN": "",
     "ADMINBOT": ["100067827494573"],
     "NDH": [
